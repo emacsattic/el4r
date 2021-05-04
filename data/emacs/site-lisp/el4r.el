@@ -1,4 +1,5 @@
-;; el4r - EmacsLisp for Ruby 
+;;; el4r --- EmacsLisp for Ruby 
+
 ;; Copyright (C) 2005 rubikitch <rubikitch@ruby-lang.org>
 ;; Version: $Id: el4r.el 1280 2006-06-24 08:33:17Z rubikitch $
 
